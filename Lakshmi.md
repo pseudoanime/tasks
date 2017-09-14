@@ -1,5 +1,3 @@
-Testing
-Code Review
-Build
+Testing Code Review Build
 
 
